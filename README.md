@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **srijan547@gmail.com**
 
-- ⚡ Fun fact **I can play guitar 🎻😛**
+- ⚡ Fun fact **I can play guitar 🎻**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
