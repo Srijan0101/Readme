@@ -5,7 +5,7 @@
 
 - 🛠  I’m currently working on **Peer Help**
 
-- 👨‍💻 All of my projects are available at **[Srijan](https://srijan-bhardwaj.web.app/)**
+- 👨‍💻 All of my projects are available at **[Portfolio](https://srijan-bhardwaj.web.app/)**
 
 - 📫 How to reach me **srijan547@gmail.com**
 
