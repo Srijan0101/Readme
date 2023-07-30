@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Srijan Bhardwaj</h1>
-<h3 align="center">An IT Sophomore who is passionate about coding and problem solving.</h3>
+<h3 align="center">An IT final year undergrad who is passionate about coding and problem solving.</h3>
 
 - 🌱 I’m currently learning **Nodejs and Express**
 
