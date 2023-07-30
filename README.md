@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Nodejs and Express**
 
-- 🛠  I’m currently working on **Peer Help**
+- 🛠  I’m currently working on **Sales Check**
 
 - 👨‍💻 All of my projects are available at **[Portfolio](https://srijan-bhardwaj.web.app/)**
 
